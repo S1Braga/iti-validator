@@ -38,7 +38,7 @@ Para executar a aplicação é necessário seguir os seguintes passos:
 ```
 
 ```bash
-  git clone 
+  git clone git@github.com:S1Braga/iti-validator.git
 ```
 
 Importe o projet na IDE de sua preferência
